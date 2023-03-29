@@ -12,6 +12,9 @@ img{
     display: flex;
     gap: 20px;
 }
+.media-icons a{
+	
+}
 .logo-details{
 	padding: 20px;
     display: flex;
